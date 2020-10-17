@@ -262,7 +262,9 @@ nav {
   color: #000000; }
 
 a.header-lessons-link img {
-  margin: 0 auto; }
+  margin: 0 auto;
+  height: 60px;
+}
 
 .header-lessons-link:hover {
   transform: scale(1.2);
@@ -453,7 +455,8 @@ h4 {
     width: 80%;
     grid-template-columns: 1fr 1fr 1fr;
     grid-row-gap: 10px;
-    grid-template-areas: "phone1 phone2 email" "address address social-icon"; }
+    grid-template-areas: "phone1 phone2 email"
+ "address address social-icon"; }
     .grid-contact__phone:first-child {
       grid-area: phone1; }
     .grid-contact__phone {
@@ -524,7 +527,9 @@ h4 {
     grid-template-columns: 1fr 1fr;
     grid-row-gap: 10px;
     font-size: 16px;
-    grid-template-areas: "address address" "phone1 email" "phone2 social-icon"; }
+    grid-template-areas: "address address"
+ "phone1 email"
+ "phone2 social-icon"; }
     .grid-contact__phone:first-child {
       grid-area: phone1; }
     .grid-contact__phone {
@@ -554,7 +559,8 @@ h4 {
   .header-wrapper {
     display: grid;
     grid-template-columns: 20% 80%;
-    grid-template-areas: "header-logo header-description" "header-wrapper__button header__nav"; }
+    grid-template-areas: "header-logo header-description"
+ "header-wrapper__button header__nav"; }
     .header-wrapper .header-logo {
       display: grid;
       justify-self: center;
@@ -646,7 +652,9 @@ h4 {
   .header-wrapper {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-areas: "header-logo" "header-description" "header__nav"; }
+    grid-template-areas: "header-logo"
+ "header-description"
+ "header__nav"; }
     .header-wrapper .header-logo {
       margin-top: 10px;
       display: grid;
