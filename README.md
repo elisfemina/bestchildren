@@ -1,2 +1,9 @@
-# bestchildren.kz
-https://ituniti.github.io/bestchildren/
+## Лендинг "Центр детского развития "ЛУЧшие дети""
+
+Разработан для центра детского развития с различными направлениями в обучении
+
+Стек: HTML, CSS (grid), JQuery
+
+Сайт адаптивный с применением медиа запросов
+
+Ссылка на сайт: https://ituniti.github.io/bestchildren/
