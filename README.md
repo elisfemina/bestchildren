@@ -6,4 +6,4 @@
 
 Сайт адаптивный с применением медиа запросов
 
-Ссылка на сайт: https://ituniti.github.io/bestchildren/
+Ссылка на сайт: https://elisfemina.github.io/bestchildren/
